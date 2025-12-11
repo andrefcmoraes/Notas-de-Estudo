@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "da97d76a220e7112",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f2e9b3ae21ffa1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "610692d894dc427a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elementos de Máquina/Aula 1 - Teorias de Falhas por Fadiga.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 1 - Teorias de Falhas por Fadiga"
+            }
+          },
+          {
+            "id": "1a0e75229919e426",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Elementos de Máquina/Excalidraw/Aula 1.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Aula 1.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e57064be6848c37",
+    "type": "split",
+    "children": [
+      {
+        "id": "06cd3e87ba7d84fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aec218ae391fa03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0c331add5cc55695",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b60cd06cf438c350",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eed893dd02b25cfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c66475af0efba82b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8c6e3d59a8020b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "04f5a2b42e4df228",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "77c87a500ccd87f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cfd07d63bace21cf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "12e5279169971f39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "610692d894dc427a",
+  "lastOpenFiles": [
+    "Elementos de Máquina/Excalidraw/Aula 1.excalidraw.md",
+    "Elementos de Máquina/Aula 1 - Teorias de Falhas por Fadiga.md",
+    "Sistemas Fluido Mecânicos",
+    "Resistência dos Materiais II",
+    "Anuncio-Festa.gif",
+    "Anuncio Festa.mp4",
+    "Elementos de Máquina/Formulas.md",
+    "Elementos de Máquina/Excalidraw",
+    "Elementos de Máquina"
+  ]
+}
