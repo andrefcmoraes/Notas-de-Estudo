@@ -17,7 +17,7 @@ $$
 ## Resistência à fadiga teórica $S_f'$ e limite de fadiga teórico $S_e'$ estimados
 $$
 \text { Aços }
-\left\{\begin{array}{lc}
+\left\{\begin{array}}{lc}
 S_e^{\prime}=0.5 \cdot S_{u t} & \text { para } S_{u t}<1400 \mathrm{MPa}  \\
 S_e^{\prime} \cong 700 \mathrm{MPa} & \text { para } S_{u t} \geq 1400 \mathrm{MP}
 \end{array}\right.
@@ -25,7 +25,7 @@ $$
 
 $$
 \text{Alumínio}
-\left\{\begin{array}{cc}
+\left\{\begin{array}}{cc}
 S_{f-5 e 8}{ }^{\prime}=0.4 \cdot S_{u t} & \text { para } S_{u t}<330 \mathrm{MPa} \\
 S_{f-5 e 8}{ }^{\prime} \cong 130 \mathrm{MPa} & \text { para } S_{u t} \geq 1400 \mathrm{MP}
 \end{array}\right.
